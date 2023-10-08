@@ -1,4 +1,5 @@
 ### Hi there 👋
+Меня зовут Агнистова Алина Юрьевна, я учусь на 2м курсе в ИТМО на направлении "Нейротехнологии и программирование"👯
 
 <!--
 **alinaagnistova/alinaagnistova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
