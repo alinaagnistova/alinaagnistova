@@ -1,6 +1,10 @@
 ### Hi there 👋
 Меня зовут Агнистова Алина, я учусь на 2м курсе в ИТМО на направлении "Нейротехнологии и программирование"👯
+⚡hard skills: Java SE (Collections/Stream API), PostrgeSQL, html, css, js, php, python - на базовом уровне
+🌱на данный момент я изучаю: Java EE, C, углубляю знания html, css, js
 ### [Лабораторные работы 1 курс](https://github.com/alinaagnistova/alinaagnistova/blob/main/navigation.md) 
+### [Лабораторные работы 2 курс](https://github.com/alinaagnistova/alinaagnistova/blob/main/navigation2.md) 
+
 <!--
 **alinaagnistova/alinaagnistova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
