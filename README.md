@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+a+software+engineering+student)](https://git.io/typing-svg)
 
 Меня зовут Агнистова Алина, я учусь на 2 курсе в ИТМО на направлении "Нейротехнологии и программирование"👯 <br>
