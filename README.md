@@ -5,11 +5,7 @@
 Меня зовут Агнистова Алина, я учусь на 2м курсе в ИТМО на направлении "Нейротехнологии и программирование"👯 <br>
 
 
-⚡hard skills: Java SE (Collections/Stream API), PostrgeSQL, на базовом уровне: html, css, js, php, python <br>
-
-
-🌱на данный момент я изучаю: Java EE, C, углубляю знания html, css, js
-
+### Hard skills ⚡
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -20,7 +16,12 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) <br>
+🌱 Java SE (Collections/Stream API), PostrgeSQL, на базовом уровне: html, css, js, php, python <br>
+
+🌱на данный момент я изучаю: Java EE, C, углубляю знания html, css, js
+
+
 
 
 ### [Лабораторные работы 1 курс](https://github.com/alinaagnistova/alinaagnistova/blob/main/navigation.md) 
