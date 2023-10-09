@@ -17,7 +17,8 @@
 - [Лабораторная работа 1. Основы языка Java](https://github.com/alinaagnistova/ITMO/blob/main/programming/reports/P3125%20Программирование%20ЛР1%20Агнистова%20А.Ю.pdf)
 - [Лабораторная работа 2. Принципы ООП и диаграммы классов по стандарту UML](https://github.com/alinaagnistova/ITMO/blob/main/programming/lab2)
 - [Лабораторная работа 3. SOLID, интерфейсы, абстрактные классы](https://github.com/alinaagnistova/ITMO/blob/main/programming/lab3v2)
-- [Лабораторная работа 4. Разработка консольного приложения](https://github.com/alinaagnistova/proglab5)
+- [Лабораторная работа 4. Обработка исключений, локальные, анонимные и вложенные классы](https://github.com/alinaagnistova/ITMO/blob/main/programming/lab4) <br>
+- [Лабораторная работа 5. Разработка консольного приложения](https://github.com/alinaagnistova/proglab5)
 - [Лабораторная работа 6. Клиент-серверная архитектура](https://github.com/alinaagnistova/proglab6) 
 - [Лабораторная работа 7. Многопоточность, работа с базами данных](https://github.com/alinaagnistova/proglab7) 
 - [Лабораторная работа 8. Пользовательский интерфейс с помощью Swing](https://github.com/alinaagnistova/proglab8) <br>
