@@ -2,5 +2,7 @@
 
 - [Лабораторная работа 1.HTML+CSS+JS+PHP](https://github.com/alinaagnistova/web_lab1)
 - [Лабораторная работа 2.JSP+CSS+JS+Java](https://github.com/alinaagnistova/web_lab2)
-- [Лабораторная работа 3.JSF+CSS+JS+Java+DataBases(ORM Hibernate + PostgreSQL)](https://github.com/alinaagnistova/web_lab3) 
+- [Лабораторная работа 3.JSF+CSS+JS+Java+DataBases(ORM Hibernate + PostgreSQL)](https://github.com/alinaagnistova/web_lab3)
+- [Лабораторная работа 4.React+Redux+MaterialUI+Spring](https://github.com/alinaagnistova/web_lab4) 
+
 
