@@ -28,7 +28,7 @@
 
   
 <b>Базы данных (1 курс 2 семестр):</b>  
-- [Лабораторная работа 1. Инфологическая и даталогическаяя модели, знакомство с PostgreSQL](https://github.com/alinaagnistova/ITMO/blob/main/DataBases/P3125%20Базы%20Данных%20ЛР1%20Агнистова%20А.Ю.pdf)
+- [Лабораторная работа 1. Инфологическая и даталогическая модели, знакомство с PostgreSQL](https://github.com/alinaagnistova/ITMO/blob/main/DataBases/P3125%20Базы%20Данных%20ЛР1%20Агнистова%20А.Ю.pdf)
 - [Лабораторная работа 2. Запросы](https://github.com/alinaagnistova/ITMO/blob/main/DataBases/P3125%20Базы%20Данных%20ЛР2%20Агнистова%20А.Ю.pdf)
 - [Лабораторная работа 3. Нормализация базы данных, функции](https://github.com/alinaagnistova/ITMO/blob/main/DataBases/P3125%20Базы%20Данных%20ЛР3%20Агнистова%20А.Ю.pdf)
 - [Лабораторная работа 4. Планы выполнения запросов, оптимизация запросов, индексы](https://github.com/alinaagnistova/ITMO/blob/main/DataBases/P3125%20Базы%20Данных%20ЛР4%20Агнистова%20А.Ю.pdf)
