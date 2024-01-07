@@ -1,8 +1,6 @@
-### Hi there 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+a+software+engineering+student)](https://git.io/typing-svg)
-
-Меня зовут Агнистова Алина, я учусь на 2 курсе в ИТМО на направлении "Нейротехнологии и программирование" <br>
+### Агнистова Алина
+### ИТМО, ФПИиКТ, Нейротехнологии и программирование, 2 курс
+<img src="https://github.com/alinaagnistova/alinaagnistova/assets/116123766/bfffe0e5-eb71-45e0-86c4-6fa7a65e3ef5" width="120" height="100">
 
 
 ### Hard skills ⚡
@@ -13,10 +11,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 <br>
 🌱 Java SE (Collections/Stream API), PostrgeSQL, на базовом уровне: html, css, js, php, python <br>
 
