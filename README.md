@@ -1,6 +1,5 @@
 ### Агнистова Алина
 ### ИТМО, ФПИиКТ, Нейротехнологии и программирование, 2 курс
-<img src="https://github.com/alinaagnistova/alinaagnistova/assets/116123766/bfffe0e5-eb71-45e0-86c4-6fa7a65e3ef5" width="120" height="100">
 
 
 ### Hard skills ⚡
