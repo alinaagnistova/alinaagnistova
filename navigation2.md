@@ -5,4 +5,6 @@
 - [Лабораторная работа 3](https://github.com/alinaagnistova/web_lab3) `JSF+CSS+JS+Java+DataBases(ORM Hibernate + PostgreSQL)`
 - [Лабораторная работа 4](https://github.com/alinaagnistova/web_lab4) `React+Redux+MaterialUI+Spring`
 
+<b>Теория вероятности (2 курс 3 семестр):</b>  
+- [ИДЗ](https://github.com/alinaagnistova/ITMO/theory_of_probability) `var 1`
 
