@@ -14,7 +14,7 @@
 <br>
 -->
 
-🌱Работала с: Java SE (Collections/Stream API), Java EE, PostrgeSQL, React, Redux, HTML, CSS, JavaScript, Python; на базовом уровне: PHP, C, Spring <br>
+🌱Работала с: Java SE (Collections/Stream API), Java EE, PostrgeSQL, React, Redux, HTML, CSS, JavaScript, Python; на базовом уровне: PHP, C, Spring Framework<br>
 
 🌱на данный момент я изучаю: C++, АиСД (Алгоритмы и Структуры данных); углубляю знания: Python.
 
