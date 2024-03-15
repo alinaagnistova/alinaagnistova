@@ -3,6 +3,7 @@
 
 
 ### Hard skills ⚡
+<!--
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -11,9 +12,11 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 <br>
-🌱 Java SE (Collections/Stream API), PostrgeSQL, на базовом уровне: html, css, js, php, python <br>
+-->
 
-🌱на данный момент я изучаю: Java EE, C, углубляю знания html, css, js
+🌱Работала с: Java SE (Collections/Stream API), Java EE, PostrgeSQL, React, Redux, HTML, CSS, JavaScript, Python; на базовом уровне: PHP, C, Spring <br>
+
+🌱на данный момент я изучаю: C++, АиСД (Алгоритмы и Структуры данных); углубляю знания: Python.
 
 
 
