@@ -23,6 +23,8 @@
 
 ### [Лабораторные работы 1 курс](https://github.com/alinaagnistova/alinaagnistova/blob/main/navigation.md) 
 ### [Лабораторные работы 2 курс](https://github.com/alinaagnistova/alinaagnistova/blob/main/navigation2.md) 
+![GitHub Repo stars](https://img.shields.io/github/stars/alinaagnistova)
+
 
 <!--
 **alinaagnistova/alinaagnistova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
