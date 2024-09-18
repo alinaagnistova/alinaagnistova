@@ -14,7 +14,7 @@
 <br>
 -->
 
-🌱Хорошо владею: Java SE (Collections/Stream API), Java EE,, Spring (Spring Core, Spring Data, Spring Boot), PostrgeSQL, React, Redux, HTML, CSS, JavaScript, Python<br>
+🌱Хорошо владею: Java SE (Collections/Stream API), Java EE, Spring (Core, Data, Boot), PostrgeSQL, React, Redux, HTML, CSS, JavaScript, Python<br>
 🌱Владею на базовом уровне: PHP, C<br>
 🌱На данный момент я изучаю: C++, АиСД (Алгоритмы и Структуры данных)<br>
 
