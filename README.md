@@ -23,6 +23,10 @@
 
 ### [Лабораторные работы 1 курс](https://github.com/alinaagnistova/alinaagnistova/blob/main/navigation.md) 
 ### [Лабораторные работы 2 курс](https://github.com/alinaagnistova/alinaagnistova/blob/main/navigation2.md) 
+### [Лабораторные работы 3 курс](https://github.com/alinaagnistova/alinaagnistova/blob/main/navigation3.md) 
+### [Pet-projects](https://github.com/alinaagnistova/alinaagnistova/blob/main/navigation4.md) 
+
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/alinaagnistova)
 
 
