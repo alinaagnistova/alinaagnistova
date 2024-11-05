@@ -8,7 +8,9 @@
 <b>Теория вероятности (2 курс 3 семестр):</b>  
 - [ИДЗ](https://github.com/alinaagnistova/ITMO/theory_of_probability) `var 1`
 
-<b>Вычислительная математика (2 курс 4 семестр):</b>  </br>
+<b>Вычислительная математика (2 курс 4 семестр):</b>  
+- [Лабораторные работы 1-5](https://github.com/alinaagnistova/ITMO/tree/main/comp_math) 
+
 
 <b>Математическая статистика (2 курс 4 семестр):</b> 
 - [Лабораторные работы 1-8](https://github.com/alinaagnistova/ITMO/tree/main/math_stat) 
