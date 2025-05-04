@@ -13,20 +13,20 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 <br>
 -->
-
+<!--
 🌱Хорошо владею: Java SE (Collections/Stream API), Java EE, Spring (Core, Data, Boot), PostrgeSQL (индексы, сложные запросы, администрирование СУБД), React, Redux, JavaScript, Python<br>
 
 🌱Владею на базовом уровне: PHP, C<br>
 
 🌱На данный момент я изучаю: Kotlin, АиСД (Алгоритмы и Структуры данных)<br>
 
-
+ -->
 
 
 ### [Лабораторные работы 1 курс](https://github.com/alinaagnistova/alinaagnistova/blob/main/navigation.md) 
 ### [Лабораторные работы 2 курс](https://github.com/alinaagnistova/alinaagnistova/blob/main/navigation2.md) 
 ### [Лабораторные работы 3 курс](https://github.com/alinaagnistova/alinaagnistova/blob/main/navigation3.md) 
-### [Pet-projects](https://github.com/alinaagnistova/alinaagnistova/blob/main/navigation4.md) 
+<!-- ### [Pet-projects](https://github.com/alinaagnistova/alinaagnistova/blob/main/navigation4.md)  -->
 
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/alinaagnistova)
